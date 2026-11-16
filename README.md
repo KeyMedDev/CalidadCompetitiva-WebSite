@@ -10,8 +10,6 @@ El sitio presenta la oferta de servicios de la empresa y canaliza el contacto co
 - [Tecnologías](#tecnologías)
 - [Estructura del proyecto](#estructura-del-proyecto)
 - [Ejecución en entorno local](#ejecución-en-entorno-local)
-- [Despliegue](#despliegue)
-- [Guía de mantenimiento](#guía-de-mantenimiento)
 - [Accesibilidad y rendimiento](#accesibilidad-y-rendimiento)
 - [Créditos y licencias](#créditos-y-licencias)
 
